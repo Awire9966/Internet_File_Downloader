@@ -1,2 +1,2 @@
-# Internet_File_Downloader
+# Internet File Downloader
 Just a PC downloader.
